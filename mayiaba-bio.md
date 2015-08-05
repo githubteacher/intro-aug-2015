@@ -2,5 +2,5 @@
 ## Intro
 
 - Lives in Innsbruck, Austria
-- Likes architecture
+- Likes architecture, like parametrics
 - Likes climbing
