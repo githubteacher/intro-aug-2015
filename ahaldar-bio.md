@@ -1,4 +1,0 @@
-# About ahaldar
-
-- abc
-- xyz
