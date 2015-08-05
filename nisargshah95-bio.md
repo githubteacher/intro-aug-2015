@@ -1,3 +1,0 @@
-# YOLO BITCHES
-
-- nacho bc
