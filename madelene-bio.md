@@ -4,3 +4,4 @@
 - Will attent Wyncode in September to become a full-stack web developer
 - Was a professional musician for 15 years (played flute and piano)
 - Loves learning all about web development!
+- Added one more line to say that I love cheese
