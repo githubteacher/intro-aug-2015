@@ -2,4 +2,4 @@
 
 - Lives in Yorktown, VA
 - USAF Veteran
-- Rides a motorcycle
+- Rides a Honda Interstate
