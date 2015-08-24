@@ -1,3 +1,3 @@
 # about Rishab
 
-- lives in india
+- lives in
